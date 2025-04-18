@@ -20,12 +20,6 @@ I currently develop the following GitHub repository:
 - ⚡ Fun fact: ...
 -->
 
-## Contacts and social networks
-<p align="left">
- <a href="https://scholar.google.com/citations?user=JRyHYPsAAAAJ" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/1024px-Google_Scholar_logo.svg.png" alt="Google Scholar" height="40" style="vertical-align:top; margin:4px" title="Google Scholar"></a>
-<a href="[https://www.linkedin.com/in/egor-dudyrev-1b77a8214/](https://www.linkedin.com/in/alvesguilherme/)" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="40" style="vertical-align:top; margin:4px" title="LinkedIn"></a>
-</p>
-
 ## GitHub stats
 
 [![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=asilvaguilherme)](https://github.com/anuraghazra/github-readme-stats)
