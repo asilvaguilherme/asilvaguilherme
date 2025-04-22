@@ -24,5 +24,6 @@ I currently develop the following GitHub repository:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelicaribeiro&layout=compact&hide_border=true"/>
 
+<!-- 
 [![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=asilvaguilherme)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
